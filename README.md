@@ -7,7 +7,9 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=bharathvk75&label=Profile+Views&color=00d9ff&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/bharathvk75?style=for-the-badge&color=00D9FF&labelColor=0D1117"/>
+
 <img src="https://img.shields.io/github/stars/bharathvk75?style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
 
 </div>
@@ -17,11 +19,9 @@
 <table>
 <tr>
 
-<td width="35%">
+<td width="35%" align="center">
 
-<div align="center">
-
-<img src="./assets/profile.png" width="260" style="border-radius:20px;" />
+<img src="./profile.jpeg" width="240" alt="Bharath Abhinesh"/>
 
 ### Bharath Abhinesh A
 
@@ -29,13 +29,12 @@
 **Full Stack Builder**  
 **Generative AI Developer**
 
----
+<br>
 
-🟢 Building AI Systems  
-🧠 Local LLM Enthusiast  
-⚡ Automation Engineer
-
-</div>
+🟢 **Currently Building AI Systems**  
+🧠 **Local LLM Enthusiast**  
+⚡ **Automation Engineer**  
+🚀 **Open Source Builder**
 
 </td>
 
@@ -120,9 +119,13 @@ F --> G[Dashboard / Excel / Insights]
 <p align="center">
 
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Open_Source_LLMs-FF6B35?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
 
 </p>
@@ -141,8 +144,9 @@ F --> G[Dashboard / Excel / Insights]
 
 ### AI Medicine Intelligence Platform
 
-AI-powered prescription intelligence system with:
+AI-powered prescription intelligence system.
 
+#### Features
 ✔ OCR Prescription Parsing  
 ✔ Medicine Comparison Engine  
 ✔ Smart Cost Analysis  
@@ -181,8 +185,7 @@ Pipeline:
  - Excel Export
 ```
 
-Features:
-
+#### Features
 ✔ Handwritten OCR  
 ✔ Invoice Intelligence  
 ✔ Structured Data Extraction  
@@ -200,7 +203,7 @@ Features:
 
 ### Generative Story Visualization
 
-Transforming stories into animated visual sequences.
+Transforming novels into animated visual storytelling.
 
 ✔ Narrative Understanding  
 ✔ Scene Generation  
