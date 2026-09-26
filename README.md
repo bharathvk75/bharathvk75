@@ -479,13 +479,6 @@ Performance is part of the product.
 
 <br><br>
 
-### Contribution Snake
-
-<a href="https://github.com/bharathvk75">
-<img src="https://raw.githubusercontent.com/bharathvk75/bharathvk75/output/github-contribution-grid-snake-dark.svg" width="95%">
-</a>
-
-<br><br>
 
 </div>
 
