@@ -27,7 +27,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./profile.jpeg" width="230" alt="Bharath Abhinesh A">
+<img src="./profile.jpeg" width="230" alt="Bharath Abhinesh A"/>
 
 <br><br>
 
@@ -35,22 +35,23 @@
 
 </td>
 
-<td width="62%" valign="middle">
+<td width="62%" align="center" valign="middle">
 
 ## `> WHOAMI`
 
-### Bharath Abhinesh A
+### BHARATH ABHINESH A
 
 **AI / ML Engineer · AI Systems Builder**
 
-Bengaluru, Karnataka, India
+`Bengaluru, Karnataka, India`
 
-B.Tech Computer Science & Engineering  
+**B.Tech Computer Science & Engineering**  
 **Artificial Intelligence & Machine Learning**
 
 <br>
 
-I build practical AI-powered software systems at the intersection of **AI, software engineering and automation**.
+I build practical AI-powered software systems at the intersection of  
+**AI, software engineering and automation.**
 
 <br>
 
@@ -113,6 +114,8 @@ My work spans **LLM applications, RAG, AI agents, backend systems, computer visi
 <div align="center">
 
 ## 02 · WHAT I BUILD
+
+</div>
 
 <table>
 <tr>
@@ -425,6 +428,8 @@ Performance is part of the product.
 
 ## 07 · EDUCATION
 
+</div>
+
 ### Garden City University
 
 **B.Tech — Computer Science & Engineering (AI & ML)**
@@ -461,6 +466,8 @@ Performance is part of the product.
 
 ## 09 · GITHUB ACTIVITY
 
+</div>
+
 <br>
 
 <a href="https://github.com/bharathvk75">
@@ -474,7 +481,7 @@ Performance is part of the product.
 <br><br>
 
 <a href="https://github.com/bharathvk75">
-<img src="https://streak-stats.demolab.com?user=bharathvk75&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="70%">
+<img src="https://streak-stats.demolab.com?user=bharathvk75&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=58A6FF&sideLabels=C9D1D9&sideNums=58A6FF&dates=8B949E" width="70%">
 </a>
 
 <br><br>
@@ -483,11 +490,7 @@ Performance is part of the product.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Bharath%20Abhinesh%20-%20GitHub%20Activity" width="95%">
 </a>
 
-<br><br>
 
-<a href="https://github.com/bharathvk75">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathvk75&theme=github_dark" width="95%">
-</a>
 
 </div>
 
@@ -496,6 +499,8 @@ Performance is part of the product.
 <div align="center">
 
 ## 10 · CURRENT DIRECTION
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=AI+ENGINEERING;AGENTIC+SYSTEMS;RAG+%26+LLM+APPLICATIONS;BACKEND+ENGINEERING;INTELLIGENT+AUTOMATION;COMPUTER+VISION">
 
@@ -514,6 +519,8 @@ meet.
 <div align="center">
 
 ## 11 · FIND ME
+
+</div>
 
 <br>
 
