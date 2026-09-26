@@ -52,7 +52,8 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,100:161B22&section=header&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
 ## 01 · THE BUILDER
@@ -93,11 +94,13 @@ My work spans **LLM applications, RAG, AI agents, backend systems, computer visi
 
 > **AI is only one part of the system. Engineering is what makes it useful.**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:161B22,100:0D1117&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 ## 02 · WHAT I BUILD
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=600&color=8B949E&center=true&vCenter=true&width=800&height=30&lines=Systems+that+connect+AI+to+real+workflows.">
 
 <table>
 <tr>
@@ -187,7 +190,7 @@ AWS
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0D1117,100:161B22&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -239,7 +242,7 @@ AWS
 
 `PostgreSQL` · `MongoDB` · `Docker` · `Git` · `GitHub Actions` · `AWS` · `Linux`
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:161B22,100:0D1117&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -296,7 +299,7 @@ I work on internal automation and AI-assisted business workflows, connecting doc
 - Automated repetitive IT and operational processes by integrating AI workflows with existing business systems.
 - Worked with business and operational teams to understand requirements, implement automation, test outputs and support internal use.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0D1117,100:161B22&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -350,7 +353,7 @@ I work on internal automation and AI-assisted business workflows, connecting doc
                        └───────────────────┘
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:161B22,100:0D1117&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -404,7 +407,7 @@ Performance is part of the product.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0D1117,100:161B22&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -422,7 +425,7 @@ Performance is part of the product.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:161B22,100:0D1117&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -440,7 +443,7 @@ Performance is part of the product.
 | Python Essentials | Cisco Networking Academy |
 | AWS Solutions Architecture Job Simulation | Forage |
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0D1117,100:161B22&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -471,14 +474,23 @@ Performance is part of the product.
 ### Contribution Graph
 
 <a href="https://github.com/bharathvk75">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=238636&hide_border=true&custom_title=Bharath%20Abhinesh%20-%20GitHub%20Activity" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&theme=react-dark&bg_color=0D1117&color=58A6FF&title_color=58A6FF&line=39D353&point=39D353&area=true&area_color=238636&hide_border=true&radius=8&height=350&custom_title=Bharath%20Abhinesh%20-%20GitHub%20Activity" width="95%">
+</a>
+
+<br><br>
+
+### Contribution Snake
+
+<a href="https://github.com/bharathvk75">
+<img src="https://raw.githubusercontent.com/bharathvk75/bharathvk75/output/github-contribution-grid-snake-dark.svg" width="95%">
 </a>
 
 <br><br>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:161B22,100:0D1117&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
 ## 10 · CURRENT DIRECTION
@@ -495,7 +507,7 @@ meet.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0D1117,100:161B22&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -525,6 +537,6 @@ meet.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0D1117&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,100:161B22&animation=fadeIn">
 
 </div>
