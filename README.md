@@ -448,28 +448,43 @@ Performance is part of the product.
 
 <br>
 
+### GitHub Overview
+
 <a href="https://github.com/bharathvk75">
-<img src="https://github-readme-stats.vercel.app/api?username=bharathvk75&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=bharathvk75&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="180">
 </a>
 
 <a href="https://github.com/bharathvk75?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathvk75&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathvk75&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180">
 </a>
 
 <br><br>
+
+### Contribution Streak
 
 <a href="https://github.com/bharathvk75">
-<img src="https://streak-stats.demolab.com?user=bharathvk75&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=58A6FF&sideLabels=C9D1D9&sideNums=58A6FF&dates=8B949E" width="72%">
+<img src="https://streak-stats.demolab.com?user=bharathvk75&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=58A6FF&sideLabels=C9D1D9&sideNums=58A6FF&dates=8B949E" width="75%">
 </a>
 
 <br><br>
+
+### Contribution Graph
 
 <a href="https://github.com/bharathvk75">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Bharath%20Abhinesh%20-%20GitHub%20Activity" width="95%">
 </a>
 
+<br><br>
+
+### Contribution Calendar
+
+<a href="https://github.com/bharathvk75">
+<img src="https://ghchart.rshah.org/58A6FF/bharathvk75" alt="Bharath Abhinesh GitHub contribution calendar" width="95%">
+</a>
+
 </div>
 
+---
 <div align="center">
 
 ## 10 · CURRENT DIRECTION
