@@ -83,12 +83,12 @@
 │  AI / ML ENGINEER                                    │
 │  COMPUTER SCIENCE & ENGINEERING                      │
 │                                                      │
-│  BENGALURU, INDIA                                   │
+│  BENGALURU, INDIA                                    │
 │                                                      │
 │  BUILDING                                           │
 │                                                      │
 │  ◆ Multi-Agent AI Systems                            │
-│  ◆ Retrieval-Augmented Generation                    │
+│  ◆ Retrieval-Augmented Generation                   │
 │  ◆ Intelligent Automation                            │
 │  ◆ Backend & REST API Systems                        │
 │  ◆ Computer Vision & OCR                             │
