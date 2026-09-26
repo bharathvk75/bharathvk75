@@ -471,16 +471,10 @@ Performance is part of the product.
 ### Contribution Graph
 
 <a href="https://github.com/bharathvk75">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=58A6FF&line=39D353&point=FFFFFF&area=true&area_color=238636&hide_border=true&custom_title=Bharath%20Abhinesh%20-%20GitHub%20Activity" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=238636&hide_border=true&custom_title=Bharath%20Abhinesh%20-%20GitHub%20Activity" width="95%">
 </a>
 
 <br><br>
-
-### Contribution Calendar
-
-<a href="https://github.com/bharathvk75">
-<img src="https://ghchart.rshah.org/39D353/bharathvk75" alt="Bharath Abhinesh GitHub contribution calendar" width="95%">
-</a>
 
 </div>
 
