@@ -21,19 +21,50 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=Building+AI+Systems+That+Solve+Real+Problems;RAG+%7C+AI+Agents+%7C+MCP+%7C+Computer+Vision;Backend+Engineering+%7C+Automation+%7C+APIs;From+Idea+%E2%86%92+System+%E2%86%92+Working+Software">
 
-<br><br>
+</div>
 
-<img src="./profile.jpeg" width="200" alt="Bharath Abhinesh A">
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="./profile.jpeg" width="230" alt="Bharath Abhinesh A">
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=bharathvk75&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS">
 
+</td>
+
+<td width="62%" valign="middle">
+
+## `> WHOAMI`
+
+### Bharath Abhinesh A
+
+**AI / ML Engineer · AI Systems Builder**
+
+Bengaluru, Karnataka, India
+
+B.Tech Computer Science & Engineering  
+**Artificial Intelligence & Machine Learning**
+
 <br>
 
-`Bengaluru, India` · `Computer Science & Engineering (AI & ML)`
+I build practical AI-powered software systems at the intersection of **AI, software engineering and automation**.
 
-</div>
+<br>
+
+`RAG` · `AI Agents` · `MCP` · `Backend` · `Computer Vision` · `OCR` · `Automation`
+
+<br>
+
+<a href="https://bharathabhinesh.me">
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -284,157 +315,7 @@ I work on internal automation and AI-assisted business workflows, connecting doc
 
 <div align="center">
 
-## 05 · SYSTEMS I HAVE BUILT
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## SYNAPSE
-
-### Multi-Agent Code Reviewer
-
-`FEB 2026 — APR 2026`
-
-A multi-agent code-review system that analyzes repositories and pull requests for:
-
-- Security
-- Maintainability
-- Performance
-- Coding practices
-
-**Built with**
-
-Parallel agent execution  
-GitHub workflow integration  
-Structured review outputs  
-Automated Markdown reports
-
-**Evaluation**
-
-`200+` PR / repository samples
-
-`78%` issue-detection accuracy
-
-`~40%` reduction in manual review effort
-
-<br>
-
-<a href="https://github.com/bharathvk75/SYNAPSE">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## DeepXMed
-
-### AI Medicine Discovery Platform
-
-`JUN 2025 — AUG 2025`
-
-An AI-assisted platform combining:
-
-- Prescription OCR
-- Medicine search
-- Pharmacy discovery
-- Price comparison
-
-**Built with**
-
-Prescription processing  
-OCR evaluation  
-Authentication  
-Search history  
-AI-assisted responses  
-Cloud-based data storage
-
-**Evaluation**
-
-`1,500+` prescription samples
-
-`~95%` recognition accuracy
-
-<br>
-
-<a href="https://github.com/bharathvk75/DeepXmeD">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## AEGIS
-
-### Real-Time Edge Video Analytics
-
-`NOV 2024 — JAN 2025`
-
-An edge-AI video analytics system for real-time object detection and event monitoring on security-camera video streams.
-
-**Performance**
-
-`~40 FPS`
-
-`80%` detection accuracy
-
-`39 ms → 24 ms` inference latency
-
-<br>
-
-<a href="https://github.com/bharathvk75/AEGIS">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## EXPERIMENTS
-
-### Always Building
-
-My repositories contain experiments across:
-
-```text
-AI AGENTS
-     ↓
-RAG SYSTEMS
-     ↓
-LLM APPLICATIONS
-     ↓
-COMPUTER VISION
-     ↓
-AUTOMATION
-     ↓
-BACKEND SYSTEMS
-```
-
-<br>
-
-<a href="https://github.com/bharathvk75?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 06 · SYSTEM ARCHITECTURE MINDSET
+## 05 · SYSTEM ARCHITECTURE MINDSET
 
 </div>
 
@@ -488,7 +369,7 @@ BACKEND SYSTEMS
 
 <div align="center">
 
-## 07 · ENGINEERING PRINCIPLES
+## 06 · ENGINEERING PRINCIPLES
 
 </div>
 
@@ -542,7 +423,7 @@ Performance is part of the product.
 
 <div align="center">
 
-## 08 · EDUCATION
+## 07 · EDUCATION
 
 ### Garden City University
 
@@ -552,7 +433,7 @@ Performance is part of the product.
 
 `Graduated July 2026`
 
-### `CGPA 8.6 / 10.0`
+### `CGPA 8.4 / 10.0`
 
 </div>
 
@@ -560,7 +441,7 @@ Performance is part of the product.
 
 <div align="center">
 
-## 09 · CERTIFICATIONS
+## 08 · CERTIFICATIONS
 
 </div>
 
@@ -578,21 +459,35 @@ Performance is part of the product.
 
 <div align="center">
 
-## 10 · GITHUB ACTIVITY
+## 09 · GITHUB ACTIVITY
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharathvk75&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="170">
+<a href="https://github.com/bharathvk75">
+<img src="https://github-readme-stats.vercel.app/api?username=bharathvk75&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="49%">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathvk75&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170">
+<a href="https://github.com/bharathvk75?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathvk75&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=bharathvk75&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E">
+<a href="https://github.com/bharathvk75">
+<img src="https://streak-stats.demolab.com?user=bharathvk75&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="70%">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%">
+<a href="https://github.com/bharathvk75">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Bharath%20Abhinesh%20-%20GitHub%20Activity" width="95%">
+</a>
+
+<br><br>
+
+<a href="https://github.com/bharathvk75">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathvk75&theme=github_dark" width="95%">
+</a>
 
 </div>
 
@@ -600,7 +495,7 @@ Performance is part of the product.
 
 <div align="center">
 
-## 11 · CURRENT DIRECTION
+## 10 · CURRENT DIRECTION
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=AI+ENGINEERING;AGENTIC+SYSTEMS;RAG+%26+LLM+APPLICATIONS;BACKEND+ENGINEERING;INTELLIGENT+AUTOMATION;COMPUTER+VISION">
 
@@ -618,7 +513,7 @@ meet.
 
 <div align="center">
 
-## 12 · FIND ME
+## 11 · FIND ME
 
 <br>
 
