@@ -1,218 +1,364 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25&text=Bharath%20Abhinesh%20A&fontColor=00D9FF&fontSize=52&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Generative%20AI%20•%20Automation%20•%20Local%20LLMs&descAlignY=58&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Autonomous+AI+Systems+🤖;Generative+AI+%7C+Vision+Language+Models+🧠;Engineering+Local+LLM+Pipelines+⚡;Automation+with+n8n+%26+AI+Agents+🚀;Building+Intelligence,+Not+Just+Software+💻"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=Bharath%20Abhinesh%20A&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20Automation&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=bharathvk75&label=Profile%20Views&color=00d9ff&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+engineering+systems;Multi-Agent+Systems+%7C+RAG+%7C+MCP;Backend+%7C+Computer+Vision+%7C+Automation;Turning+complex+workflows+into+reliable+software"/>
 
-<img src="https://img.shields.io/github/followers/bharathvk75?style=for-the-badge&color=00D9FF&labelColor=0D1117"/>
+<br><br>
 
-<img src="https://img.shields.io/github/stars/bharathvk75?style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
+<a href="https://bharathabhinesh.me">
+<img src="https://img.shields.io/badge/Portfolio-bharathabhinesh.me-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
+</a>
+<a href="https://github.com/bharathvk75">
+<img src="https://img.shields.io/badge/GitHub-bharathvk75-161B22?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/bharathvk75/">
+<img src="https://img.shields.io/badge/LinkedIn-Bharath%20Abhinesh-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:bharathvk75@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bharathvk75&label=Profile%20Views&color=58A6FF&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/bharathvk75?style=flat-square&label=Followers&color=161B22"/>
+<img src="https://img.shields.io/github/stars/bharathvk75?style=flat-square&label=Stars&color=161B22"/>
 
 </div>
 
 ---
 
+## `> whoami`
+
+```text
+Bharath Abhinesh A
+AI / ML Engineer
+B.Tech CSE — Artificial Intelligence & Machine Learning
+
+Bengaluru, India
+
+I build practical AI systems around:
+├── Multi-Agent Systems & MCP
+├── Retrieval-Augmented Generation
+├── LLM Applications
+├── Intelligent Workflow Automation
+├── Computer Vision & OCR
+├── Backend & REST API Engineering
+└── Local / Self-Hosted AI Infrastructure
+```
+
+My engineering focus is on taking AI beyond isolated models and turning it into **usable systems** — combining agents, retrieval, APIs, automation, vision pipelines, and backend services into reliable workflows.
+
+---
+
+## ⚡ What I'm Building
+
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="35%" align="center">
+### 🧠 Multi-Agent AI
 
-<img src="./profile.jpeg" width="250" alt="Bharath Abhinesh"/>
+Designing agent architectures using **LangGraph, MCP, RAG and specialized AI agents**.
 
-### 🧠 Bharath Abhinesh A
-
-**AI Systems Engineer**  
-**Full Stack Builder**  
-**Data Analyst**
-
-<br>
-
-🟢 Building Intelligent Systems  
-⚡ Agentic Workflow Engineer  
-🧠 Local LLM Enthusiast  
-🚀 Open Source Builder
-
-<br>
-
-<a href="https://truce95.dpdns.org/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-Visit%20Portfolio-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-</td>
-
-<td width="65%">
-
-# 🚀 About Me
-
-```bash
-> whoami
-
-bharath_abhinesh
-
-AI Systems Engineer
-Full Stack Developer
-Data Analyst
-
-Current Focus:
-→ Generative AI Pipelines
-→ Local LLM Orchestration
-→ Agentic Workflows
-→ Vision Language Models
-→ Intelligent Automation
-
-Mission:
-Build privacy-first intelligent systems
-that are fast, local, and autonomous.
+```text
+User / Event
+      ↓
+Orchestrator
+      ↓
+┌─────┼─────┐
+↓     ↓     ↓
+Agent Agent Agent
+↓     ↓     ↓
+└─────┼─────┘
+      ↓
+Structured Output
 ```
 
 </td>
 
+<td width="50%" valign="top">
+
+### ⚙️ Intelligent Automation
+
+Building automation systems that connect:
+
+```text
+Documents
+    ↓
+OCR / Extraction
+    ↓
+AI Processing
+    ↓
+Business Logic
+    ↓
+REST APIs
+    ↓
+Automation
+    ↓
+Human / System Action
+```
+
+</td>
 </tr>
 </table>
 
 ---
 
-# ⚡ Current Build Dashboard
+## 🏢 Industry Experience
 
-```txt
-[███████████░░] DeepXmeD v2                (82%)
-[█████████░░░░] VisionAgent OCR            (68%)
-[███████░░░░░░] Multi-Agent Systems        (52%)
-[█████░░░░░░░░] AI Desktop Applications    (39%)
+### IT Automation Intern — Induspic Engineers
+
+**Bengaluru, India · Dec 2025 – Present**
+
+Working on internal AI-assisted automation and backend workflows for business operations.
+
+* Built a **document-search RAG workflow** using Python, LangChain and vector databases, reducing average information-retrieval time by **49%**.
+* Developed an **automated quotation workflow** combining document processing, AI-assisted extraction, approval steps and email automation.
+* Developed backend services and **REST API integrations** for internal business workflows.
+* Automated repetitive IT and operational processes by connecting AI workflows with existing systems.
+* Worked with operational teams to translate workflow requirements into usable internal automation systems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 SYNAPSE — Multi-Agent Code Reviewer
+
+<a href="https://github.com/bharathvk75/SYNAPSE">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+A multi-agent AI code-review platform designed to analyze repositories and pull requests through specialized review agents.
+
+**Highlights**
+
+* Multi-agent orchestration with **LangGraph**
+* Specialized analysis for security, maintainability and performance
+* GitHub workflow / PR integration
+* Parallel agent execution
+* Automated structured Markdown reports
+* Evaluated across **200+ PR/repository samples**
+* **78% issue-detection accuracy** on the defined evaluation set
+* Reduced manual review effort by approximately **40%**
+
+**Stack**
+
+`Python` `LangGraph` `AI Agents` `GitHub` `REST APIs` `LLMs`
+
+---
+
+### 💊 DeepXmeD — AI Medicine Discovery Platform
+
+<a href="https://github.com/bharathvk75/DeepXmeD">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+An AI-assisted medicine discovery platform combining prescription OCR, medicine search, pharmacy discovery and price comparison.
+
+**Highlights**
+
+* Prescription image processing and OCR
+* Medicine discovery and comparison
+* Pharmacy discovery
+* AI-assisted responses
+* Authentication and search history
+* Cloud-backed application workflows
+* OCR evaluation across **1,500+ prescription samples**
+* Approximately **95% recognition accuracy** on the project evaluation set
+
+**Stack**
+
+`Python` `FastAPI` `OCR` `AI` `Computer Vision` `REST APIs` `PostgreSQL`
+
+---
+
+### 👁 AEGIS — Real-Time Edge Video Analytics
+
+<a href="https://github.com/bharathvk75/AEGIS">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+An edge-AI computer-vision system for real-time object detection and event monitoring.
+
+**Performance**
+
+```text
+Inference
+39 ms  ───────────────────→  24 ms
+
+Throughput
+~40 FPS
+
+Detection Accuracy
+~80%
 ```
 
----
+Pipeline and inference optimizations reduced average inference latency from **39 ms to 24 ms** while maintaining comparable detection performance.
 
-# 🌐 Portfolio
+**Stack**
 
-<div align="center">
-
-<a href="https://truce95.dpdns.org/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20PORTFOLIO-OPEN%20NOW-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-<br><br>
-
-<a href="https://truce95.dpdns.org/" target="_blank">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Explore+My+Engineering+Portfolio+🚀;AI+Systems+%7C+Projects+%7C+Innovation+🧠;Building+The+Future+With+Intelligence+⚡"/>
-
-</a>
-
-</div>
+`Python` `PyTorch` `OpenCV` `Computer Vision` `Docker`
 
 ---
 
-# 🏗 System Architecture Mindset
+## 🧩 Engineering Architecture
 
 ```mermaid
 flowchart LR
 
-A[Raw Files] --> B[Vision LLM]
-B --> C[OCR Intelligence]
-C --> D[Structured Data]
-D --> E[n8n Automation]
-E --> F[AI Agents]
-F --> G[Dashboard / Excel / Insights]
+    A[Input / Event] --> B[API / Interface]
+
+    B --> C{AI Processing}
+
+    C --> D[RAG]
+    C --> E[Vision / OCR]
+    C --> F[AI Agents]
+
+    D --> G[Context]
+    E --> G
+    F --> G
+
+    G --> H[Business Logic]
+
+    H --> I[REST APIs]
+    H --> J[Automation]
+    H --> K[Database]
+
+    I --> L[System / User]
+    J --> L
+    K --> L
 ```
 
 ---
 
-# ⚙️ Technical Arsenal
+## 🛠️ Technical Stack
 
-## 💻 Languages
+### AI / LLM
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,kotlin,go,java,linux,bash"/>
+<img src="https://img.shields.io/badge/RAG-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-161B22?style=for-the-badge"/>
 </p>
 
-## ⚙️ Frameworks & Runtime
+### Backend & APIs
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,fastapi,dotnet,express"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb,docker"/>
 </p>
 
-## 🤖 AI / ML / Automation
+### Machine Learning & Vision
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_Source_LLMs-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge"/>
+</p>
 
+### Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,sql,git,githubactions,aws"/>
 </p>
 
 ---
 
-# 🚀 Featured Systems
-
-| Project | Description |
-|----------|-------------|
-| 💊 **DeepXmeD** | AI-powered medicine intelligence with OCR prescription parsing & smart comparison |
-| 👁 **VisionAgent-OCR** | Local Vision-LLM OCR pipeline using Qwen2-VL & Gemma |
-| 🎬 **AniLiv** | Generative AI storytelling visualization engine |
-| 🔐 **CipherVault** | Secure credential ecosystem with AES-256 & automation |
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharathvk75&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bharathvk75&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathvk75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathvk75&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bharathvk75&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bharathvk75&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://truce95.dpdns.org/">
-<img src="https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathvk75&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+**Garden City University — Bengaluru**
+
+`B.Tech Computer Science & Engineering (AI & ML)`
+
+**CGPA: 8.6 / 10.0 · Graduated July 2026**
+
+### Selected Certifications
+
+* Model Context Protocol (MCP) Developer — Anthropic
+* Building with Claude API — Anthropic
+* Deep Agents — LangChain Academy
+* TensorFlow: Advanced Techniques Specialization — Imperial College
+* Python PCAP — Cisco Networking Academy
+* Python Essentials — Cisco Networking Academy
+* AWS Solutions Architecture Job Simulation — Forage
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://bharathabhinesh.me">
+<img src="https://img.shields.io/badge/Portfolio-bharathabhinesh.me-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
 </a>
 
 <a href="https://github.com/bharathvk75">
-<img src="https://img.shields.io/badge/GitHub-bharathvk75-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-bharathvk75-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bharathvk75/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:bharathvk75@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-> *“Build intelligence, not just software.”*
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Building intelligent systems that solve real problems.    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=24,20,12&text=Engineering%20The%20Future&fontSize=28&fontColor=00D9FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0D1117&animation=fadeIn"/>
 
 </div>
